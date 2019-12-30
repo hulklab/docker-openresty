@@ -1,4 +1,4 @@
-FROM openresty/openresty:latest
+FROM openresty/openresty:1.15.8.2-6-buster
 
 ENV TZ=Asia/Shanghai
 
